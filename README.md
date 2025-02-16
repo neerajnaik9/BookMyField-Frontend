@@ -34,7 +34,7 @@
 | Technology | Description |
 |------------|------------|
 | **Frontend** | React.js (Vite), Tailwind CSS |
-| **Backend** | ASP.NET Core Web API |
+| **Backend** | ASP.NET Core Web API | Spring Boot
 | **Database** | MySQL (via Entity Framework Core) |
 | **Authentication** | JWT-based authentication |
 | **Payment Gateway** | Razorpay integration |
