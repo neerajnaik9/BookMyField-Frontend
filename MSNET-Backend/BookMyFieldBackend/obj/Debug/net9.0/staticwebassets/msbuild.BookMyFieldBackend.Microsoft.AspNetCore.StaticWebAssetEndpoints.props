@@ -1,0 +1,232 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.5z0rv6gs6k.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\102ed694-884b-432e-8ee5-1e0828e8c65c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5z0rv6gs6k"},{"Name":"integrity","Value":"sha256-T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40937"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 10:49:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\102ed694-884b-432e-8ee5-1e0828e8c65c.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40937"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 10:49:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"631246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 12:00:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.td4vf4xitw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"td4vf4xitw"},{"Name":"integrity","Value":"sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"631246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 12:00:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:52:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.ti2bj3hncj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ti2bj3hncj"},{"Name":"integrity","Value":"sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:52:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 17:57:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.v8sajnfm28.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8sajnfm28"},{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 17:57:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 08:35:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.k623e2cfgr.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k623e2cfgr"},{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 08:35:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:32:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.v8sajnfm28.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8sajnfm28"},{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:32:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 11:21:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.v8sajnfm28.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8sajnfm28"},{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 11:21:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"44120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 18:14:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.ti2bj3hncj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ti2bj3hncj"},{"Name":"integrity","Value":"sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44120"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G\u002BJagc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 18:14:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Feb 2025 09:17:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.v8sajnfm28.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8sajnfm28"},{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Feb 2025 09:17:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.ma2g9xo59a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2645a3c-e184-4765-af20-c4bb0dd12a96.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ma2g9xo59a"},{"Name":"integrity","Value":"sha256-nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"266798"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 18:39:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b2645a3c-e184-4765-af20-c4bb0dd12a96.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"266798"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 18:39:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.8huseirf3l.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b44d2459-2efb-40a4-b506-40c19353d1a1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8huseirf3l"},{"Name":"integrity","Value":"sha256-tLABR\u002B6sSGzQHDHf3BZ2x6T7G\u002BYpo5cTzbF4vTVfkEA="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"556283"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tLABR\u002B6sSGzQHDHf3BZ2x6T7G\u002BYpo5cTzbF4vTVfkEA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 18:39:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b44d2459-2efb-40a4-b506-40c19353d1a1.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tLABR\u002B6sSGzQHDHf3BZ2x6T7G\u002BYpo5cTzbF4vTVfkEA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"556283"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tLABR\u002B6sSGzQHDHf3BZ2x6T7G\u002BYpo5cTzbF4vTVfkEA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Feb 2025 18:39:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 08:03:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.v8sajnfm28.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v8sajnfm28"},{"Name":"integrity","Value":"sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36505"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 08:03:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:38:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.k623e2cfgr.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k623e2cfgr"},{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:38:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.64w0ao2y5c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"64w0ao2y5c"},{"Name":"integrity","Value":"sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:49:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 19:49:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.5z0rv6gs6k.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5z0rv6gs6k"},{"Name":"integrity","Value":"sha256-T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40937"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40937"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022T2v8G\u002BUilsKdBFyjn4\u002BrB8QKT15cOnsgNIgErjZuIjc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:07:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"631246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 12:13:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.td4vf4xitw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"td4vf4xitw"},{"Name":"integrity","Value":"sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"631246"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Feb 2025 12:13:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.64w0ao2y5c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"64w0ao2y5c"},{"Name":"integrity","Value":"sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Feb 2025 12:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19809"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB\u002BoOSHNtMRkU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Feb 2025 12:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.2aykwqglmv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2aykwqglmv"},{"Name":"integrity","Value":"sha256-dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2\u002B9ku4="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14578"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2\u002B9ku4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:01:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2\u002B9ku4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14578"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2\u002B9ku4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:01:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:45:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BookMyFieldBackend/uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.k623e2cfgr.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k623e2cfgr"},{"Name":"integrity","Value":"sha256-NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs="},{"Name":"label","Value":"_content/BookMyFieldBackend/uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NDwLadC8Y\u002BTFguAQ3YrCRKtqcf\u002Bfz6C6EvS/fxXt3Zs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 20:45:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

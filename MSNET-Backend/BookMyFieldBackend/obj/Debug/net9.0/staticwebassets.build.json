@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "lD11vSfexejSkCRH2EOklHyaADORr94vjiCBZzRLdhA=",
+  "Source": "BookMyFieldBackend",
+  "BasePath": "_content/BookMyFieldBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookMyFieldBackend\\wwwroot",
+      "Source": "BookMyFieldBackend",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\102ed694-884b-432e-8ee5-1e0828e8c65c.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/102ed694-884b-432e-8ee5-1e0828e8c65c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5z0rv6gs6k",
+      "Integrity": "T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\102ed694-884b-432e-8ee5-1e0828e8c65c.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "td4vf4xitw",
+      "Integrity": "D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ti2bj3hncj",
+      "Integrity": "e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8sajnfm28",
+      "Integrity": "gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k623e2cfgr",
+      "Integrity": "NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8sajnfm28",
+      "Integrity": "gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8sajnfm28",
+      "Integrity": "gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ti2bj3hncj",
+      "Integrity": "e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8sajnfm28",
+      "Integrity": "gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b2645a3c-e184-4765-af20-c4bb0dd12a96.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ma2g9xo59a",
+      "Integrity": "nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b2645a3c-e184-4765-af20-c4bb0dd12a96.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b44d2459-2efb-40a4-b506-40c19353d1a1.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/b44d2459-2efb-40a4-b506-40c19353d1a1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8huseirf3l",
+      "Integrity": "tLABR+6sSGzQHDHf3BZ2x6T7G+Ypo5cTzbF4vTVfkEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b44d2459-2efb-40a4-b506-40c19353d1a1.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8sajnfm28",
+      "Integrity": "gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k623e2cfgr",
+      "Integrity": "NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64w0ao2y5c",
+      "Integrity": "ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5z0rv6gs6k",
+      "Integrity": "T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "td4vf4xitw",
+      "Integrity": "D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "64w0ao2y5c",
+      "Integrity": "ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2aykwqglmv",
+      "Integrity": "dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2+9ku4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg",
+      "SourceId": "BookMyFieldBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\",
+      "BasePath": "_content/BookMyFieldBackend",
+      "RelativePath": "uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k623e2cfgr",
+      "Integrity": "NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.5z0rv6gs6k.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\102ed694-884b-432e-8ee5-1e0828e8c65c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 10:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5z0rv6gs6k"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/102ed694-884b-432e-8ee5-1e0828e8c65c.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\102ed694-884b-432e-8ee5-1e0828e8c65c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 10:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "631246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 12:00:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.td4vf4xitw.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "631246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 12:00:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "td4vf4xitw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1487e844-a389-46ea-ac65-10098ec01185_basketball.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.ti2bj3hncj.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ti2bj3hncj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/15c02b5d-151c-48f2-ae33-0ed3b6b75fa1_tennis_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:57:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.v8sajnfm28.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 17:57:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8sajnfm28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2d77c69d-fb2d-4db0-85d2-1128a05719e2_football_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.k623e2cfgr.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:35:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k623e2cfgr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2eb64630-c0bf-4f4b-a85d-dbf68aa2e8c9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.v8sajnfm28.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8sajnfm28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a8f88b5e-4b2c-42de-9470-ca1d0dfc8ffc_football_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 11:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.v8sajnfm28.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 11:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8sajnfm28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/afdd9320-619a-4929-b5ef-02fd631ea45e_football_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 18:14:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.ti2bj3hncj.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 18:14:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ti2bj3hncj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b07dc04e-b282-400f-a4f4-bd4944dde069_tennis_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e29RGvQ/3vyM5aQdIM0g4QXTw9CmCLor7gv97G+Jagc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 09:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.v8sajnfm28.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 09:17:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8sajnfm28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b0c14744-9e8a-4744-948e-ecf189520322_football_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.ma2g9xo59a.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b2645a3c-e184-4765-af20-c4bb0dd12a96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 18:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma2g9xo59a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b2645a3c-e184-4765-af20-c4bb0dd12a96.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b2645a3c-e184-4765-af20-c4bb0dd12a96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "266798"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 18:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nvxS4GmJIZEXAfIPS8FDzguVZYLwciUB5Xa2S5KDVpw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.8huseirf3l.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b44d2459-2efb-40a4-b506-40c19353d1a1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tLABR+6sSGzQHDHf3BZ2x6T7G+Ypo5cTzbF4vTVfkEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 18:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8huseirf3l"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tLABR+6sSGzQHDHf3BZ2x6T7G+Ypo5cTzbF4vTVfkEA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b44d2459-2efb-40a4-b506-40c19353d1a1.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\b44d2459-2efb-40a4-b506-40c19353d1a1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556283"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tLABR+6sSGzQHDHf3BZ2x6T7G+Ypo5cTzbF4vTVfkEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 18:39:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tLABR+6sSGzQHDHf3BZ2x6T7G+Ypo5cTzbF4vTVfkEA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:03:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.v8sajnfm28.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 08:03:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8sajnfm28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bedb00cc-9bb6-451d-a3c7-f1b52230ef29.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTN/DQFTA2elFYYcB62z3jRCGDY0rSQ1I4ASMTLUYJc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.k623e2cfgr.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:38:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k623e2cfgr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c75bd62d-b5f4-4dd1-9fd9-cd9ac6985688_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.64w0ao2y5c.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64w0ao2y5c"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e2983f69-8c93-4813-9478-1f47297b32af_cricket_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 19:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.5z0rv6gs6k.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5z0rv6gs6k"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e722c489-79bf-4ddd-9283-a823abb03e5b_stadium.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2v8G+UilsKdBFyjn4+rB8QKT15cOnsgNIgErjZuIjc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "631246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 12:13:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.td4vf4xitw.jpg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "631246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Feb 2025 12:13:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "td4vf4xitw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e8ce987b-6c4b-458e-add5-df1f6e949ddc_basketball.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0ngnIThY8zUItnYvOX9lrkjtSmdb55ZdXjRCSp1Dho="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.64w0ao2y5c.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 12:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "64w0ao2y5c"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f148cc1b-f3e6-4624-8ce7-01c315232323_cricket_icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Feb 2025 12:50:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ahNIfZcscjb/uVhu/JsQJkRTTa4UlrSB+oOSHNtMRkU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.2aykwqglmv.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2+9ku4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2aykwqglmv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2+9ku4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f92fc103-5802-4531-a06c-ebd04715f5d8_football.png",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\f92fc103-5802-4531-a06c-ebd04715f5d8_football.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2+9ku4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:01:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dg1qAiMm72yNtumYgSYZl6WgmvVjvJipaWFUl2+9ku4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.k623e2cfgr.jpeg",
+      "AssetFile": "C:\\Users\\DELL\\Downloads\\98% BMF\\98% BMF\\BookMyFieldBackend\\BookMyFieldBackend\\BookMyFieldBackend\\wwwroot\\uploads\\feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 20:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k623e2cfgr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/feec8948-9451-4524-b4d2-09de7da8b3e0_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDwLadC8Y+TFguAQ3YrCRKtqcf+fz6C6EvS/fxXt3Zs="
+        }
+      ]
+    }
+  ]
+}

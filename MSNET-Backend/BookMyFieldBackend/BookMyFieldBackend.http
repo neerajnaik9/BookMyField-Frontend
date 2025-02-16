@@ -1,0 +1,6 @@
+@BookMyFieldBackend_HostAddress = http://localhost:5216
+
+GET {{BookMyFieldBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
